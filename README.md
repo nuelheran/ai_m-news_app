@@ -1,5 +1,10 @@
 # Voice Controlled React News Application - Alan AI Voice Assistant
 
+Live Site (https://ai-voice-mnews.netlify.app/)
+![homepage](https://github.com/nuelheran/ai_m-news_app/assets/140153463/c5e84c0e-cde1-41f3-b9f1-e0c5707b3908)
+![newscards](https://github.com/nuelheran/ai_m-news_app/assets/140153463/04925117-7c6a-45be-bec7-2be8f11f9144)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
