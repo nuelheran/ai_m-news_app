@@ -1,3 +1,5 @@
+# Voice Controlled React News Application - Alan AI Voice Assistant
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
